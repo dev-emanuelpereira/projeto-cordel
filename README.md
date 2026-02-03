@@ -6,7 +6,7 @@
 
 Projeto desenvolvido com **HTML5** e **CSS3** com o objetivo de praticar o efeito visual **Parallax**, utilizando como base o cordel *"Cordel Moderno"*, de **Milton Duarte**.
 
-**Acesse o site:**  
+🔗 **Acesse o site:**  
 https://dev-emanuelpereira.github.io/projeto-cordel/
 
 ---
@@ -48,7 +48,7 @@ O projeto foi desenvolvido buscando boa adaptação para diferentes tamanhos de 
 
 ---
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```bash
 projeto-cordel/
@@ -86,6 +86,6 @@ O conteúdo textual pertence ao autor original e foi utilizado apenas para fins 
 Este projeto tem caráter educacional e faz parte do meu aprendizado em desenvolvimento front-end e efeitos visuais com CSS.
 
 ---
-## Autor
+## 👤 Autor
 ### Emanuel Pereira
-GitHub: https://github.com/dev-emanuelpereira
+- GitHub: https://github.com/dev-emanuelpereira
