@@ -1,8 +1,7 @@
+# Projeto Cordel - Efeito Parallax
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-
-# Projeto Cordel - Efeito Parallax
 
 Projeto desenvolvido com **HTML5** e **CSS3** com o objetivo de praticar o efeito visual **Parallax**, utilizando como base o cordel *"Cordel Moderno"*, de **Milton Duarte**.
 
